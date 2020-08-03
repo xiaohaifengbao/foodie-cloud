@@ -1,8 +1,10 @@
+package com.imooc.pojo;
+
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
 /**
  *
- * @Title: IMOOCJSONResult.java
+ * @Title: com.imooc.pojo.IMOOCJSONResult.java
  * @Package com.imooc.utils
  * @Description: 自定义响应数据结构
  * 				本类可提供给 H5/ios/安卓/公众号/小程序 使用

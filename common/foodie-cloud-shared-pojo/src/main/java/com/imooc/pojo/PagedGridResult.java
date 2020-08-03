@@ -1,8 +1,10 @@
+package com.imooc.pojo;
+
 import java.util.List;
 
 /**
  *
- * @Title: PagedGridResult.java
+ * @Title: com.imooc.pojo.PagedGridResult.java
  * @Package com.imooc.utils
  * @Description: 用来返回分页Grid的数据格式
  * Copyright: Copyright (c) 2019
